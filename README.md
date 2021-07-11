@@ -39,7 +39,7 @@ See [here](https://create.arduino.cc/projecthub/camice-foxyseta/bosco-test-a90dd
 Follow these simple steps to upload your sketch:
 1. create a folder named "test_di_bosco" in your sketchbook folder
 2. download the six source files embed below inside your new "test_di_bosco" folder
-3. open `test_di_bosco.ino` using [Arduino IDE](#Apps and online services): a single window with all of the `.ino` files in it should open
+3. open `test_di_bosco.ino` using Arduino IDE: a single window with all of the `.ino` files in it should open
 4. that's it: you are now ready to upload the entire sketch clicking on "upload" once
 
 ### A sample Android application
