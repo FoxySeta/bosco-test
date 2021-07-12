@@ -1,6 +1,8 @@
 # Bosco Test
 Bosco tests are designed to assess the morphofunctional characteristics of one's legs muscles as well as their neuromuscular skills.
 
+![Cover](cover.jpg)
+
 ## Components and supplies
 - [Arduino Mega 2560](https://store.arduino.cc/arduino-mega-2560-rev3) × 1. Actually, pretty much any Arduino board would do just fine.
 - [Breadboard (generic)](https://www.newark.com/multicomp/mcbb400/breadboard-solderless-abs/dp/99W1759?COM=ref_hackster) × 2
