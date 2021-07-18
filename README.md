@@ -2,8 +2,8 @@
 Bosco tests are designed to assess the morphofunctional characteristics of one's legs muscles as well as their neuromuscular skills.
 
 ## Acknowledgements
-Many thanks to Camilla M. Asioli, for her diligent work, and Alice, for her
-enthusiastic efforts.
+Many thanks to Camilla M. Asioli, for her diligent work, and Alice Viglino, for
+her enthusiastic efforts.
 
 ![Cover](cover.jpg)
 
